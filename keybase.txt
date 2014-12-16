@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/t3s1a
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://t3s1a.github.io
+  * I am t3s1a (https://keybase.io/t3s1a) on keybase.
+  * I have a public key with fingerprint 3B7F 467B 06A9 3375 F877  1CED 4E28 8484 64E1 D253
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "3b7f467b06a93375f8771ced4e28848464e1d253",
+            "host": "keybase.io",
+            "key_id": "4e28848464e1d253",
+            "uid": "b09a4b9caa196add092ede59f88c5500",
+            "username": "t3s1a"
+        },
+        "service": {
+            "hostname": "t3s1a.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1418696219,
+    "expire_in": 157680000,
+    "prev": "92072253090b4ebe70fef5d934799c20052ccd6c907c77dcc204b83d274a673d",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+owGbwMvMwMTop9HSkvLwUjDj6QOfkxhC+qcZVCsl5adUKllVK2Wngqm0zLz01KKC
+osy8EiUrJeMk8zQTM/MkA7NES2Njc9M0C3Nzw+TUFJNUIwsLEwsTM5NUwxQjU2Ml
+HaWM/GKQDqAxSYnFqXqZ+UAxICc+MwUoikV9KVgiycAy0STJMjkx0dDSLDElxcDS
+KDUl1dQyzcIi2dTUwACksDi1KC8xNxWousS42DBRqVZHCShUlpmcCnIwyF5kab30
+zJKM0iSIAwqK8kvyk/NzgJIZJSUFxVYgzSWVBSDV5alJ8VBz4pMy81KAHgfqKEst
+Ks7Mz1OyMgSqTC7JBBlsaGJoYWZpZmRoqaOUWlGQWZQanwlSYWpuZmEABCB7UsuA
+RloaGZgbAb1nYGmQZJKalGpukJaaZppiaWxibmmZbGRgYGqUnJxilmxpYJ5sbp6S
+DBQySbIwTjEyN0k0MzdOUQL5rDAvX8nKGOjMxHSgkcWZ6XmJJaVFqUq1XJ1MMiwM
+jEwMbKxMoLhj4OIUgMWoxGf+/0XTzsVHz/mQfkGT3STj+Urzj292HJZaePDjXa3O
+3LvypvtO6zS8FDdgfWs7f7bbfv6tBYJ8FhxTXhca8f5IiVny39K82nB9x0K93ze2
+6drlGL0L7lbeHMkwmXPN+eI4hX+hLKe6Lk5631qxq8xQZq7kwsU60scla4zlha76
++i8J+SfSsT3a8o7eLOeNNUEyXO82Pvqts/xcX5lW3IToAxlSjq8eb9nRHGhwvupN
+yvMNfNHHymJ3vYzlU/wQd/9HkcC2Gz/dcy5d7Mz+orZIKiN7zcaMxcJXWPiVaj/t
+XLhE4skV5W3Hun9EFd94lfan+Ktj0fr4II1p0ppObj8XvyjgusIkqnCez+WcLGPY
+CsXVOTHBgsdcDjM0L/55fv2XA5Zq96rU567iUuWaKcu3Z/PM4Om6Vj+K1A5sy9Kt
+uPZbyGSK3oWq3m/d596cbHnCJtr0J07n8PwKlbaUmD/lIjnsG94dO7wk7OWKBn6h
+10t29zEw7996dWmj/qwPn2q4ay0CCoxtH0adOGU768a2pqLEsvSEd5t23ttibNJ8
+of+UyCnzrkuPlz57di6iaWH137kSwbdftphazN85Nb7+yPeeE0+21tqmcPBJtZmU
+mvGHCbPf/fPQ3iQ2quJAKeuKjCUmsfeur3AInMVX9cuc81NPzOHbk7+m5jLfPhH3
+bO2fv9rMGjY7NufJceRfCzRRywtXWLu4JZCffWXiCgA=
+=Y7lr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/t3s1a
+
+==================================================================
